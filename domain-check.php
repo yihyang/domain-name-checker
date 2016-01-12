@@ -5,8 +5,8 @@
 													'org',
 													'biz',
 													'info',
-													'us'
-													'name' 
+													'us',
+													'name',
 													'com.my', 
 													'my', 
 													'com', 
